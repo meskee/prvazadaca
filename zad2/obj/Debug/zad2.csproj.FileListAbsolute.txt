@@ -1,0 +1,6 @@
+\\mac\home\documents\visual studio 2015\Projects\zad1\zad2\bin\Debug\zad2.exe.config
+\\mac\home\documents\visual studio 2015\Projects\zad1\zad2\bin\Debug\zad2.exe
+\\mac\home\documents\visual studio 2015\Projects\zad1\zad2\bin\Debug\zad2.pdb
+\\mac\home\documents\visual studio 2015\Projects\zad1\zad2\obj\Debug\zad2.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\zad1\zad2\obj\Debug\zad2.exe
+\\mac\home\documents\visual studio 2015\Projects\zad1\zad2\obj\Debug\zad2.pdb

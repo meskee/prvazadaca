@@ -1,0 +1,6 @@
+\\mac\home\documents\visual studio 2015\Projects\zad1\zad3\bin\Debug\zad3.exe.config
+\\mac\home\documents\visual studio 2015\Projects\zad1\zad3\obj\Debug\zad3.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\zad1\zad3\bin\Debug\zad3.exe
+\\mac\home\documents\visual studio 2015\Projects\zad1\zad3\bin\Debug\zad3.pdb
+\\mac\home\documents\visual studio 2015\Projects\zad1\zad3\obj\Debug\zad3.exe
+\\mac\home\documents\visual studio 2015\Projects\zad1\zad3\obj\Debug\zad3.pdb
